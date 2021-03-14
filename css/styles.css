@@ -1,0 +1,70 @@
+h1, h2 {
+  font-family: Roboto, sans-serif;
+}
+
+h2{
+  text-align: center;
+  color: #344E22;
+}
+
+p {
+  font-family: Lato, sans-serif;
+}
+
+ul {
+  font-family: Lato, sans-serif;
+  line-height: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+li {
+margin-bottom: 1em;
+}
+
+a {
+  font-family: Lato, sans-serif;
+  font-weight: 600;
+  color: #344e22;
+  font-size: 1.5em;
+  text-decoration: none;
+}
+
+.qoute {
+  text-align: center;
+  color: #344E22;
+}
+
+.tribute-link {
+  text-align: center;
+  margin: 2% 0;
+}
+
+#main {
+  background: #344E22;
+  color: #ffffff;
+  width: 50%;
+  margin:1em auto;
+  padding: 1.5em 0;
+  text-align: center;
+  border-radius: 5px;
+}
+
+#image {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  background: #E7F3DF;
+  width: 50%;
+  margin: 2.5em auto;
+  padding: 2em 0;
+  border-radius: 5px;
+}
